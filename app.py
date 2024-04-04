@@ -1,7 +1,5 @@
 import streamlit as st
-import seaborn as sns
 import yfinance as yf
-import pandas as pd
 import datetime
 
 st.set_page_config(
